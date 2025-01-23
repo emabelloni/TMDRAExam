@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 125,
+    "height" : 187
+  }, {
+    "width" : 249,
+    "height" : 373
+  }, {
+    "width" : 497,
+    "height" : 745
+  }, {
+    "width" : 994,
+    "height" : 1489
+  }, {
+    "width" : 1988,
+    "height" : 2978
+  }, {
+    "width" : 3975,
+    "height" : 5955
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3975,
+  "@id" : "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5955
+}

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 66,
+    "height" : 99
+  }, {
+    "width" : 132,
+    "height" : 198
+  }, {
+    "width" : 264,
+    "height" : 396
+  }, {
+    "width" : 528,
+    "height" : 792
+  }, {
+    "width" : 1056,
+    "height" : 1584
+  }, {
+    "width" : 2112,
+    "height" : 3168
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2112,
+  "@id" : "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3168
+}

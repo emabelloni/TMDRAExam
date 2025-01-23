@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 126,
+    "height" : 62
+  }, {
+    "width" : 252,
+    "height" : 123
+  }, {
+    "width" : 504,
+    "height" : 245
+  }, {
+    "width" : 1008,
+    "height" : 490
+  }, {
+    "width" : 2016,
+    "height" : 980
+  }, {
+    "width" : 4032,
+    "height" : 1960
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4032,
+  "@id" : "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1960
+}
