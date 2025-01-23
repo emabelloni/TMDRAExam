@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://emabelloni.github.io/TMDRAExam/manifests/TMDRABelloni.json",
     "label" : "TMDRABelloni"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://emabelloni.github.io/TMDRAExam/manifests/TMDRABelloni1.json",
+    "label" : "TMDRABelloni"
   } ]
 }
