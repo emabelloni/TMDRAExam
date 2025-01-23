@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://emabelloni.github.io/TMDRAExam/manifests/TMDRABelloni2.json",
     "label" : "TMDRABelloni2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://emabelloni.github.io/TMDRAExam/manifests/ProjTMDRABelloni.json",
+    "label" : "ProjTMDRABelloni"
   } ]
 }
