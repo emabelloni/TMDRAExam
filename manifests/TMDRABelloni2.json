@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://emabelloni.github.io/TMDRAExam/manifests/TMDRABelloni2.json",
+  "@type" : "sc:Manifest",
+  "label" : "TMDRABelloni2",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Fashion items annotation",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Emanuele Belloni",
+  "sequences" : [ {
+    "@id" : "http://ce0f2a4f-5c48-46b7-b1ec-eecca7a424c9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d7138c88-f4cb-45d2-9464-3c79754b1fa4",
+      "@type" : "sc:Canvas",
+      "label" : "shoe1",
+      "height" : 4032,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bf4f4d78-b72f-4dac-a9bd-1b9a6215fdac",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/xavier-teo-SxAXphIPWeg-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/xavier-teo-SxAXphIPWeg-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://d7138c88-f4cb-45d2-9464-3c79754b1fa4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://aabdcd2c-6255-4a75-ba61-f4215e8f02dd",
+      "@type" : "sc:Canvas",
+      "label" : "shoe2",
+      "height" : 1960,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0237c0fa-db94-4b09-8750-9e3f9cb1ddb4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1960,
+          "width" : 4032
+        },
+        "on" : "http://aabdcd2c-6255-4a75-ba61-f4215e8f02dd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a89b5d82-036c-43d1-b236-c0268c20fc3f",
+      "@type" : "sc:Canvas",
+      "label" : "bag1",
+      "height" : 5472,
+      "width" : 3648,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f5ded2da-0ea3-4e50-bdce-ccd16959b1a3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/charlesdeluvio-Ghrv69I9mPw-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/charlesdeluvio-Ghrv69I9mPw-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5472,
+          "width" : 3648
+        },
+        "on" : "http://a89b5d82-036c-43d1-b236-c0268c20fc3f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0870cc9b-d4e6-4bf2-a224-6f5058da712c",
+      "@type" : "sc:Canvas",
+      "label" : "shirt1",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2c9fd742-c9dd-4cf7-8521-5d8641865495",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://0870cc9b-d4e6-4bf2-a224-6f5058da712c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a4ff9393-0768-4c86-a9a7-4f8c1ba1a4fe",
+      "@type" : "sc:Canvas",
+      "label" : "dress1",
+      "height" : 5955,
+      "width" : 3975,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5bbb134c-d152-49fd-a245-56adc4360d86",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5955,
+          "width" : 3975
+        },
+        "on" : "http://a4ff9393-0768-4c86-a9a7-4f8c1ba1a4fe"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f26dd8a2-5fb1-413c-afa3-a832f86092a8",
+      "@type" : "sc:Canvas",
+      "label" : "dress2",
+      "height" : 3264,
+      "width" : 4896,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://090d5157-8c3d-42a9-89a0-2d0220b58acd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/henry-co-cp-VMJ-mdKs-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/henry-co-cp-VMJ-mdKs-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3264,
+          "width" : 4896
+        },
+        "on" : "http://f26dd8a2-5fb1-413c-afa3-a832f86092a8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b349e6a1-3121-4ea9-97fb-5003805acb4b",
+      "@type" : "sc:Canvas",
+      "label" : "shirt2",
+      "height" : 2736,
+      "width" : 3648,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d8447516-0d6e-46df-a127-d396be8b9056",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2736,
+          "width" : 3648
+        },
+        "on" : "http://b349e6a1-3121-4ea9-97fb-5003805acb4b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3f381bc6-f2d1-4f8b-a854-28ed580565ec",
+      "@type" : "sc:Canvas",
+      "label" : "top1",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7f608f87-bf96-4ab0-ad49-7740f6b84238",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/cristofer-maximilian-AqLIkOzWDAk-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/cristofer-maximilian-AqLIkOzWDAk-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://3f381bc6-f2d1-4f8b-a854-28ed580565ec"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6c8776d0-8a98-4534-87af-4de57624e60a",
+      "@type" : "sc:Canvas",
+      "label" : "bag2",
+      "height" : 6720,
+      "width" : 4480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2e815942-f44d-4db1-b122-0c62f6250f66",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/jonathan-j-castellon-5ABk8BTqdLE-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/jonathan-j-castellon-5ABk8BTqdLE-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6720,
+          "width" : 4480
+        },
+        "on" : "http://6c8776d0-8a98-4534-87af-4de57624e60a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://19b4a82e-327a-414a-b7b2-3f38ccc574f2",
+      "@type" : "sc:Canvas",
+      "label" : "top2",
+      "height" : 3168,
+      "width" : 2112,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dfccb4fe-04fe-4997-add0-afc5d1d6ede2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3168,
+          "width" : 2112
+        },
+        "on" : "http://19b4a82e-327a-414a-b7b2-3f38ccc574f2"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
