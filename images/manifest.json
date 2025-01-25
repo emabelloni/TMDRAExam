@@ -9,87 +9,6 @@
     },
     "items": [
         {
-            "id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "haryo-setyadi-acn5ERAeSb4-unsplash"
-                ]
-            },
-            "height": 3168,
-            "width": 2112,
-            "items": [
-                {
-                    "id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/full/full/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 66,
-                                                "height": 99
-                                            },
-                                            {
-                                                "width": 132,
-                                                "height": 198
-                                            },
-                                            {
-                                                "width": 264,
-                                                "height": 396
-                                            },
-                                            {
-                                                "width": 528,
-                                                "height": 792
-                                            },
-                                            {
-                                                "width": 1056,
-                                                "height": 1584
-                                            },
-                                            {
-                                                "width": 2112,
-                                                "height": 3168
-                                            }
-                                        ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 2112,
-                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 3168,
-                                        "@type": "ImageService2"
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "https://emabelloni.github.io/TMDRAExam/images/jonathan-j-castellon-5ABk8BTqdLE-unsplash/canvas/",
             "type": "Canvas",
             "label": {
@@ -165,6 +84,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://emabelloni.github.io/TMDRAExam/images/jonathan-j-castellon-5ABk8BTqdLE-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://emabelloni.github.io/TMDRAExam/images/alex-haigh-fEt6Wd4t4j0-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "alex-haigh-fEt6Wd4t4j0-unsplash"
+                ]
+            },
+            "height": 3000,
+            "width": 2400,
+            "items": [
+                {
+                    "id": "https://emabelloni.github.io/TMDRAExam/images/alex-haigh-fEt6Wd4t4j0-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://emabelloni.github.io/TMDRAExam/images/alex-haigh-fEt6Wd4t4j0-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://emabelloni.github.io/TMDRAExam/images/alex-haigh-fEt6Wd4t4j0-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 75,
+                                                "height": 94
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 300,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 600,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 1200,
+                                                "height": 1500
+                                            },
+                                            {
+                                                "width": 2400,
+                                                "height": 3000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2400,
+                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/alex-haigh-fEt6Wd4t4j0-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://emabelloni.github.io/TMDRAExam/images/alex-haigh-fEt6Wd4t4j0-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "haryo-setyadi-acn5ERAeSb4-unsplash"
+                ]
+            },
+            "height": 3168,
+            "width": 2112,
+            "items": [
+                {
+                    "id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 66,
+                                                "height": 99
+                                            },
+                                            {
+                                                "width": 132,
+                                                "height": 198
+                                            },
+                                            {
+                                                "width": 264,
+                                                "height": 396
+                                            },
+                                            {
+                                                "width": 528,
+                                                "height": 792
+                                            },
+                                            {
+                                                "width": 1056,
+                                                "height": 1584
+                                            },
+                                            {
+                                                "width": 2112,
+                                                "height": 3168
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2112,
+                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3168,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://emabelloni.github.io/TMDRAExam/images/haryo-setyadi-acn5ERAeSb4-unsplash/canvas/"
                         }
                     ]
                 }
@@ -252,87 +333,6 @@
             ]
         },
         {
-            "id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "yura-timoshenko-99mIEw7uEJM-unsplash"
-                ]
-            },
-            "height": 2736,
-            "width": 3648,
-            "items": [
-                {
-                    "id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/full/full/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 114,
-                                                "height": 86
-                                            },
-                                            {
-                                                "width": 228,
-                                                "height": 171
-                                            },
-                                            {
-                                                "width": 456,
-                                                "height": 342
-                                            },
-                                            {
-                                                "width": 912,
-                                                "height": 684
-                                            },
-                                            {
-                                                "width": 1824,
-                                                "height": 1368
-                                            },
-                                            {
-                                                "width": 3648,
-                                                "height": 2736
-                                            }
-                                        ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 3648,
-                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 2736,
-                                        "@type": "ImageService2"
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "https://emabelloni.github.io/TMDRAExam/images/henry-co-cp-VMJ-mdKs-unsplash/canvas/",
             "type": "Canvas",
             "label": {
@@ -414,26 +414,26 @@
             ]
         },
         {
-            "id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/canvas/",
+            "id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "carlos-torres-fouVDmGXoPI-unsplash"
+                    "yura-timoshenko-99mIEw7uEJM-unsplash"
                 ]
             },
-            "height": 5955,
-            "width": 3975,
+            "height": 2736,
+            "width": 3648,
             "items": [
                 {
-                    "id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/annotation/AnnoPage",
+                    "id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/annotation/",
+                            "id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/full/full/0/default.jpg",
+                                "id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -454,122 +454,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 125,
-                                                "height": 187
+                                                "width": 114,
+                                                "height": 86
                                             },
                                             {
-                                                "width": 249,
-                                                "height": 373
+                                                "width": 228,
+                                                "height": 171
                                             },
                                             {
-                                                "width": 497,
-                                                "height": 745
+                                                "width": 456,
+                                                "height": 342
                                             },
                                             {
-                                                "width": 994,
-                                                "height": 1489
+                                                "width": 912,
+                                                "height": 684
                                             },
                                             {
-                                                "width": 1988,
-                                                "height": 2978
+                                                "width": 1824,
+                                                "height": 1368
                                             },
                                             {
-                                                "width": 3975,
-                                                "height": 5955
+                                                "width": 3648,
+                                                "height": 2736
                                             }
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 3975,
-                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash",
+                                        "width": 3648,
+                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash",
                                         "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 5955,
+                                        "height": 2736,
                                         "@type": "ImageService2"
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "waldemar-Db4d6MRIXJc-unsplash"
-                ]
-            },
-            "height": 4000,
-            "width": 6000,
-            "items": [
-                {
-                    "id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/full/full/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 188,
-                                                "height": 125
-                                            },
-                                            {
-                                                "width": 375,
-                                                "height": 250
-                                            },
-                                            {
-                                                "width": 750,
-                                                "height": 500
-                                            },
-                                            {
-                                                "width": 1500,
-                                                "height": 1000
-                                            },
-                                            {
-                                                "width": 3000,
-                                                "height": 2000
-                                            },
-                                            {
-                                                "width": 6000,
-                                                "height": 4000
-                                            }
-                                        ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 6000,
-                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 4000,
-                                        "@type": "ImageService2"
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/canvas/"
+                            "target": "https://emabelloni.github.io/TMDRAExam/images/yura-timoshenko-99mIEw7uEJM-unsplash/canvas/"
                         }
                     ]
                 }
@@ -657,26 +576,26 @@
             ]
         },
         {
-            "id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/canvas/",
+            "id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "mocno-fotografia-nzYcN7Vz9BI-unsplash"
+                    "waldemar-Db4d6MRIXJc-unsplash"
                 ]
             },
-            "height": 1960,
-            "width": 4032,
+            "height": 4000,
+            "width": 6000,
             "items": [
                 {
-                    "id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/annotation/AnnoPage",
+                    "id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/annotation/",
+                            "id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/full/full/0/default.jpg",
+                                "id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -697,41 +616,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 126,
-                                                "height": 62
+                                                "width": 188,
+                                                "height": 125
                                             },
                                             {
-                                                "width": 252,
-                                                "height": 123
+                                                "width": 375,
+                                                "height": 250
                                             },
                                             {
-                                                "width": 504,
-                                                "height": 245
+                                                "width": 750,
+                                                "height": 500
                                             },
                                             {
-                                                "width": 1008,
-                                                "height": 490
+                                                "width": 1500,
+                                                "height": 1000
                                             },
                                             {
-                                                "width": 2016,
-                                                "height": 980
+                                                "width": 3000,
+                                                "height": 2000
                                             },
                                             {
-                                                "width": 4032,
-                                                "height": 1960
+                                                "width": 6000,
+                                                "height": 4000
                                             }
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 4032,
-                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash",
+                                        "width": 6000,
+                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash",
                                         "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 1960,
+                                        "height": 4000,
                                         "@type": "ImageService2"
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/canvas/"
+                            "target": "https://emabelloni.github.io/TMDRAExam/images/waldemar-Db4d6MRIXJc-unsplash/canvas/"
                         }
                     ]
                 }
@@ -813,6 +732,249 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://emabelloni.github.io/TMDRAExam/images/xavier-teo-SxAXphIPWeg-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "carlos-torres-fouVDmGXoPI-unsplash"
+                ]
+            },
+            "height": 5955,
+            "width": 3975,
+            "items": [
+                {
+                    "id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 125,
+                                                "height": 187
+                                            },
+                                            {
+                                                "width": 249,
+                                                "height": 373
+                                            },
+                                            {
+                                                "width": 497,
+                                                "height": 745
+                                            },
+                                            {
+                                                "width": 994,
+                                                "height": 1489
+                                            },
+                                            {
+                                                "width": 1988,
+                                                "height": 2978
+                                            },
+                                            {
+                                                "width": 3975,
+                                                "height": 5955
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3975,
+                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5955,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://emabelloni.github.io/TMDRAExam/images/carlos-torres-fouVDmGXoPI-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://emabelloni.github.io/TMDRAExam/images/ryan-hoffman-6Nub980bI3I-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ryan-hoffman-6Nub980bI3I-unsplash"
+                ]
+            },
+            "height": 3314,
+            "width": 2367,
+            "items": [
+                {
+                    "id": "https://emabelloni.github.io/TMDRAExam/images/ryan-hoffman-6Nub980bI3I-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://emabelloni.github.io/TMDRAExam/images/ryan-hoffman-6Nub980bI3I-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://emabelloni.github.io/TMDRAExam/images/ryan-hoffman-6Nub980bI3I-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 74,
+                                                "height": 104
+                                            },
+                                            {
+                                                "width": 148,
+                                                "height": 208
+                                            },
+                                            {
+                                                "width": 296,
+                                                "height": 415
+                                            },
+                                            {
+                                                "width": 592,
+                                                "height": 829
+                                            },
+                                            {
+                                                "width": 1184,
+                                                "height": 1657
+                                            },
+                                            {
+                                                "width": 2367,
+                                                "height": 3314
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2367,
+                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/ryan-hoffman-6Nub980bI3I-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3314,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://emabelloni.github.io/TMDRAExam/images/ryan-hoffman-6Nub980bI3I-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "mocno-fotografia-nzYcN7Vz9BI-unsplash"
+                ]
+            },
+            "height": 1960,
+            "width": 4032,
+            "items": [
+                {
+                    "id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 126,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 252,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 504,
+                                                "height": 245
+                                            },
+                                            {
+                                                "width": 1008,
+                                                "height": 490
+                                            },
+                                            {
+                                                "width": 2016,
+                                                "height": 980
+                                            },
+                                            {
+                                                "width": 4032,
+                                                "height": 1960
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4032,
+                                        "@id": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1960,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://emabelloni.github.io/TMDRAExam/images/mocno-fotografia-nzYcN7Vz9BI-unsplash/canvas/"
                         }
                     ]
                 }
