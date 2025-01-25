@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://emabelloni.github.io/TMDRAExam/manifests/manifestBELLONIDEF.json",
     "label" : "Annotation Task1"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://emabelloni.github.io/TMDRAExam/manifests/manifestBELLONIDEF1.json",
+    "label" : "Belloni Annotation Task"
   } ]
 }
